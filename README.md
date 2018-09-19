@@ -5,7 +5,6 @@ my blog about Pygame calculator :
    [https://bit.ly/2MjUXGU](https://bit.ly/2MjUXGU)
    
 Ref. of my code :
-
-      module : [https://www.pygame.org/docs/](https://www.pygame.org/docs/)
+   module : [https://www.pygame.org/docs/](https://www.pygame.org/docs/)
       
-      change button color : [https://bit.ly/2p3bSUI](https://bit.ly/2p3bSUI)
+   change button color : [https://bit.ly/2p3bSUI](https://bit.ly/2p3bSUI)
